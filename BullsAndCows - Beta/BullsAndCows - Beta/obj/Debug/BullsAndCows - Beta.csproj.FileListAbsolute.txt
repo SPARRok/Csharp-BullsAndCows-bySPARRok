@@ -1,0 +1,19 @@
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.exe.config
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.exe
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.pdb
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.csprojResolveAssemblyReference.cache
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows___Beta.Form1.resources
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows___Beta.Properties.Resources.resources
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.csproj.GenerateResource.Cache
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.exe
+E:\C#\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.pdb
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.exe.config
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.exe
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.pdb
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.csprojAssemblyReference.cache
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows___Beta.Form1.resources
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows___Beta.Properties.Resources.resources
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.csproj.GenerateResource.cache
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.csproj.CoreCompileInputs.cache
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.exe
+B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.pdb
