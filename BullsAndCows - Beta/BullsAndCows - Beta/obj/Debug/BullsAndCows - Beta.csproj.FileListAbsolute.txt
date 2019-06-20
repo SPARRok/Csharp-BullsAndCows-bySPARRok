@@ -17,3 +17,12 @@ B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsA
 B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.csproj.CoreCompileInputs.cache
 B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.exe
 B:\School\Programming\Visual Studio 2017\Projekts\Win\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.pdb
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.exe.config
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.exe
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.pdb
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.exe
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\bin\Debug\BullsAndCows - Beta.pdb
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.csprojResolveAssemblyReference.cache
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows___Beta.Form1.resources
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows___Beta.Properties.Resources.resources
+P:\GitHub\Accepted\Csharp-BullsAndCows-bySPARRok\BullsAndCows - Beta\BullsAndCows - Beta\obj\Debug\BullsAndCows - Beta.csproj.GenerateResource.Cache

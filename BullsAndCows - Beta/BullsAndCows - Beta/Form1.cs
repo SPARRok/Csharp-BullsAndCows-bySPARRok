@@ -168,7 +168,7 @@ namespace BullsAndCows___Beta
 
         private void BtnOk_Click(object sender, EventArgs e)
         {
-            //Show Cows and Bulls
+            //Hide Cows and Bulls
             #region
             Bull1.Hide();
             Bull2.Hide();
