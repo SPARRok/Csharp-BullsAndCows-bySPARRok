@@ -48,7 +48,7 @@ namespace BullsAndCows___Beta
         }
 
 
-        //Deklarace
+        //Declaration
         #region
         public int num1, num2, num3, num4;
         public int bull, cow, point;
@@ -168,7 +168,7 @@ namespace BullsAndCows___Beta
 
         private void BtnOk_Click(object sender, EventArgs e)
         {
-            //Schovat Kravy a Byky
+            //Show Cows and Bulls
             #region
             Bull1.Hide();
             Bull2.Hide();
@@ -180,7 +180,7 @@ namespace BullsAndCows___Beta
             Cow4.Hide();
             #endregion
 
-            //Prijmani dat
+            //Accept data
             #region
             data = System.IO.File.ReadAllLines("data.txt");
             num1 = Convert.ToInt32(data[0]);
@@ -192,13 +192,13 @@ namespace BullsAndCows___Beta
 
             #endregion
 
-            //Nulovani hodnot
+            //Zero
             #region
             bull = 0;
             cow = 0;
             #endregion
 
-            //rozdeleni cisel na cifry
+            //Divide a number (rozdělit na celé císlo)
             #region
             int i = Convert.ToInt32(textBox1.Text);
 
@@ -208,27 +208,27 @@ namespace BullsAndCows___Beta
             int d = (i - ((a * 1000) + (b * 100) + (c * 10)));
             #endregion
 
-            //Hlavni kod
+            //chief code (Hlavni kod)
             #region
             if (a == b || a == c || a == d)
             {
-                MessageBox.Show("Zadej různá čísla");
+                MessageBox.Show("Type different numbers");
             }
             else
             {
                 if (b == a || b == c || b == d)
                 {
-                    MessageBox.Show("Zadej různá čísla");
+                    MessageBox.Show("Type different numbers");
                 }
                 else
                 {
                     if (c == d || c == b || c == a)
                     {
-                        MessageBox.Show("Zadej různá čísla");
+                        MessageBox.Show("Type different numbers");
                     }
                     else
                     {
-                        //Dalsi
+                        //Beyond (Dal)
                         #region
                         //Bulls
                         #region
@@ -275,7 +275,7 @@ namespace BullsAndCows___Beta
             }
             #endregion
 
-            //Ukaz vysledku
+            //Show 
             #region
 
             //bull
@@ -359,7 +359,7 @@ namespace BullsAndCows___Beta
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            //Prvni kroky
+            //First step
             #region
             Random rnd = new Random();
             num1 = 0;
@@ -370,7 +370,7 @@ namespace BullsAndCows___Beta
             lblPoint.Text = point.ToString();
             #endregion
 
-            //Generovani
+            //Generating
             #region
             num1 = rnd.Next(0, 9);
             num2 = rnd.Next(0, 9);
@@ -393,7 +393,7 @@ namespace BullsAndCows___Beta
 
             #endregion
 
-            //Uchovani
+            //Save
             #region
             data = new string[]
             {
